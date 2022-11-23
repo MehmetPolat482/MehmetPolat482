@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mehmet Polat</h1>
 <h3 align="center">A passionate Game Developer from Turkey</h3>
 
-- 🔭 I’m currently working on **My Portfolio Web Design**
+- 🔭 I’m currently working on **Unity Game Development**
 
-- 🌱 I’m currently learning **JavaScript, Html, Css, React , C# **
+- 🌱 I’m currently learning ** C# **
 
-- 💬 Ask me about **html,css and javascript , C#**
+- 💬 Ask me about ** C# **
 
 - 📫 How to reach me **mehmett.polat56@gmail.com**
 
