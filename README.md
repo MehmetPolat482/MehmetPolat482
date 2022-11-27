@@ -1,19 +1,14 @@
-<h1 align="center">Hi 👋, I'm Mehmet Polat</h1>
-<h3 align="center">A passionate Game Developer from Turkey</h3>
-
-- 🔭 I’m currently working on **Unity Game Development**
-
-- 🌱 I’m currently learning ** C# **
-
-- 💬 Ask me about ** C# **
-
-- 📫 How to reach me **mehmett.polat56@gmail.com**
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=ff0000&width=435&lines=Hi%2C+I'm+Mehmet+Polat;I'm+a+Game+Developer.+;I'm+interested+in+Unity+,+UE5.)
+<!--<img src="https://thumbs.gfycat.com/TanDapperBorderterrier.webp" alt="" width="200" height="200" align="right">-->
+<img src="https://media4.giphy.com/media/Gf5QiP1TWCO8qYKmt7/giphy.gif?cid=ecf05e47ixp1dggeu6gx1f30163a78rwt40ekm2z7qvuhm9v&rid=giphy.gif&ct=g" align="right" width="200" height="200">
+<h4 align="left" style="color:red;">A passionate game developer from Gaziantep.Currently, I am trying to develop projects and aim to become a senior game developer.</h4>
 
 - ⚡ Fun fact **I think I am curious**
 
-<h3 align="left">Connect with me:</h3>
+### You can also reach me :
 <p align="left">
 <a href="https://linkedin.com/in/mehmet-polat-3aa3b2206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet-polat-3aa3b2206/" height="30" width="40" /></a>
+<a href="mailto:mehmett.polat56@gmail.com"><img  width="32" src="https://img.icons8.com/color/344/gmail-new.png" target="_blank" align="left" ></a>
 <a href="https://www.hackerrank.com/mehmed_polat71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mehmed_polat71" height="30" width="40" /></a>
 </p>
 
