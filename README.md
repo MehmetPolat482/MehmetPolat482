@@ -9,7 +9,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/mehmet-polat-3aa3b2206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet-polat-3aa3b2206/" height="30" width="40" /></a>
 <a href="mailto:mehmett.polat56@gmail.com"><img  width="32" src="https://img.icons8.com/color/344/gmail-new.png" target="_blank" align="left" ></a>
-<a href="https://www.hackerrank.com/mehmed_polat71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mehmed_polat71" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
