@@ -1,5 +1,4 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=ffd12b&width=435&lines=Hi%2C+I'm+Mehmet+Polat;I'm+a+Game+Developer.+;I'm+interested+in+Unity+,+UE5.)
-<img src="https://thumbs.gfycat.com/TanDapperBorderterrier.webp" alt="" width="200" height="200" align="right">
 <img src="https://media4.giphy.com/media/Gf5QiP1TWCO8qYKmt7/giphy.gif?cid=ecf05e47ixp1dggeu6gx1f30163a78rwt40ekm2z7qvuhm9v&rid=giphy.gif&ct=g" align="right" width="200" height="200">
 <h4 align="left" style="color:red;">A passionate game developer from Gaziantep.Currently, I am trying to develop projects and aim to become a senior game developer.</h4>
 
