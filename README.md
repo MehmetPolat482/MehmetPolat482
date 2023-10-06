@@ -36,12 +36,12 @@
 ### :octocat: Github Statistics
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&username=mehmetpolat482" width="480" height="180" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=mehmetpolat482" width="480" height="180" alt="developer-guy"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=mehmetpolat482" width="300" height="180" alt="developer-guy"/>
 </div>
 
 <div align="right">
-<img align="right" width="200" height="200" src="https://media.tenor.com/A15H8E1VUh8AAAAC/github-cat.gif"  />
-<img src="https://media4.giphy.com/media/Gf5QiP1TWCO8qYKmt7/giphy.gif?cid=ecf05e47ixp1dggeu6gx1f30163a78rwt40ekm2z7qvuhm9v&rid=giphy.gif&ct=g" align="right" width="200" height="200">
+<img align="right" width="150" height="150" src="https://media.tenor.com/A15H8E1VUh8AAAAC/github-cat.gif"  />
+<img src="https://media4.giphy.com/media/Gf5QiP1TWCO8qYKmt7/giphy.gif?cid=ecf05e47ixp1dggeu6gx1f30163a78rwt40ekm2z7qvuhm9v&rid=giphy.gif&ct=g" align="right" width="150" height="150">
 </div>
 
 
